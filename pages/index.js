@@ -18,6 +18,7 @@ export default function Home() {
 
         <div className="text-xl font-light py-6">
           Welcome my first application, created with Next.JS, TailwindCSS, and hosted on DigitalOcean!
+          This is my first test of an automated Git push to deployment!
         </div>
 
         <div className="bg-blue-500 px-2 py-1 rounded-md text-white shadow-lg font-semibold hover:animate-pulse hover:bg-black">
